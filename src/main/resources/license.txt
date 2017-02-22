@@ -1,0 +1,2 @@
+The map pictures are exported from openstreetmap.org.
+For license see www.openstreetmap.org/copyright
